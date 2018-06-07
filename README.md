@@ -15,3 +15,9 @@ Repositorio destinado a la subida de nota mediante una actividad de ampliación 
 <img width="720px" src="/img/explicacionuno.png">
 <img width="720px" src="/img/explicaciondos.png">
 <img width="720px" src="/img/explicaciontres.png">
+
+## Resultado final
+### Primero se muestran las coincidencias halladas en tci.txt
+<img width="720px" src="/img/resultadofinaluno.png">
+### Después el fichero en cuestión completo tci.txt
+<img width="720px" src="/img/resultadofinaldos.png">
