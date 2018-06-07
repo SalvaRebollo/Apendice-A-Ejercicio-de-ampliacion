@@ -2,6 +2,7 @@
 Repositorio destinado a la subida de nota mediante una actividad de ampliación para alumnos aprobados del ciclo superior DAM
 ## Enunciado
 <img width="720px" src="/img/2.png">
+
 ## Esto es lo que encontramos en la carpeta de proyecto llamada ampliacion
 <img width="720px" src="/img/1.png">
 
@@ -19,5 +20,6 @@ Repositorio destinado a la subida de nota mediante una actividad de ampliación 
 ## Resultado final
 ### Primero se muestran las coincidencias halladas en tci.txt
 <img width="720px" src="/img/resultadofinaluno.png">
+
 ### Despues el fichero en cuestión completo tci.txt
 <img width="720px" src="/img/resultadofinaldos.png">
